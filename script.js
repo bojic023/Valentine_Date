@@ -71,7 +71,7 @@ yesBtn.addEventListener("click", () => {
         "template_575a5e2",    // TEMPLATE ID
         {
             title: "Valentinovo 💖",
-            name: "Nikola",
+            name: "Marina",
             message: "Hey! Your Valentine letter was accepted. 💕",
             to_email: "bojic023@gmail.com"
         }
