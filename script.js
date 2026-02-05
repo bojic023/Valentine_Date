@@ -67,8 +67,8 @@ yesBtn.addEventListener("click", () => {
     finalText.style.display = "block";
 
     emailjs.send(
-        "service_uevbkfg",     // SERVICE ID
-        "template_575a5e2",    // TEMPLATE ID
+        "service_abswzcf",     // SERVICE ID
+        "template_thw62nf",    // TEMPLATE ID
         {
             title: "Valentinovo 💖",
             name: "Marina",
